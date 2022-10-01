@@ -1,0 +1,11 @@
+{
+  "name": "omnifood-webapp",
+  "version": "1.0.0",
+  "description": "Omnifood",
+  "scripts": {
+    "start": "parcel build index.html",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Remmy",
+  "license": "ISC"
+}
